@@ -16,10 +16,6 @@ A basic calculator built with HTML, CSS and JavaScript as part of the CodeAlpha 
 
 Open `index.html` in any browser.
 
-## Live Demo
-
-https://YOUR-USERNAME.github.io/CodeAlpha_Calculator/
-
 ## Author
 
-Dhamiex'
+Mariemii'
